@@ -5,6 +5,7 @@ It's a simple web application using streamlit for UI and googletrans python modu
 It's a simple Translator application, module using for this application is googletrans
 <br>
 to download the module use the below code
+<br>
 <code>pip install googletrans==4.0.0-rc1</code>
 <br>
 Screenshots:
